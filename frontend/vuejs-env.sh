@@ -9,7 +9,5 @@ laravelurl=${laravelurl%/}
 url_with_api="$laravelurl/api/v1"
 
 # Update the .env file
-# sed -i "s/^APP_URL=.*/APP_URL=$url_with_api/" .env
-# sed -i "s/^APP_URL_ID=.*/APP_URL_ID=$url_with_api/" .env
-
-echo "Updated .env file with URL: $url_with_api"
+# sed -i "s/^API_URL_DEV=.*/API_URL_DEV=$url_with_api/" .env
+# sed -i "s/^API_URL=.*/API_URL=$url_with_api/" .env
