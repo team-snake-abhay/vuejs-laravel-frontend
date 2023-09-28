@@ -7,7 +7,10 @@ laravelurl=${laravelurl%/}
 url_with_api="$laravelurl/api/v1"
 
 # Full path to the .env file
-env_file="$HOME/public_html/vuejs-laravel-frontend/frontend/.env"
+
+env_file="$HOME"
+env_file="${env_file%/}"
+env_file="$env_file/public_html/vuejs-laravel-frontend/frontend/.env"
 
 # Update the .env file
 sed -i "s/^API_URL_DEV=.*/API_URL_DEV=$url_with_api/" "$env_file"
