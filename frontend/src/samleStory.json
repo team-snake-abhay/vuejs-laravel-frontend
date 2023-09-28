@@ -1,0 +1,36 @@
+{
+  "cards": [
+    {
+      "type": "highlight",
+      "data": { "highlight": "ds" },
+      "word": { "start": 1.3, "text": "for" }
+    },
+    {
+      "type": "quote",
+      "data": { "quote": "quorte", "author": "auhoe" },
+      "word": { "start": 2.4, "text": "miles" }
+    },
+    {
+      "type": "definitin",
+      "data": { "definition": "define", "author": "auhorN" },
+      "word": { "start": 2.4, "text": "miles" }
+    },
+    {
+      "type": "profile",
+      "data": {
+        "firstName": "john",
+        "lastName": "doe",
+        "title": "web developer",
+        "linkedinUrl": "linkedin.com/url",
+        "twitterUrl": "twuter.com/url",
+        "avatar": "https://firebasestorage.googleapis.com/v0/b/storify-dev.appspot.com/o/images%2Fnick-sokolov-qsxHmrE7Hu4-unsplash.jpg-1662806697496?alt=media&token=e1184806-1e3b-4d48-a7aa-07bacb5344f9"
+      },
+      "word": { "start": 3.3, "text": "1992" }
+    }
+  ],
+  "title": "story",
+  "thumbnail": "https://firebasestorage.googleapis.com/v0/b/storify-dev.appspot.com/o/images%2Fnick-sokolov-qsxHmrE7Hu4-unsplash.jpg-1662806586649?alt=media&token=c1d970d8-7994-4ee5-963f-0a6bcf434960",
+  "chapter_name": "",
+  "pw": "",
+  "id": ""
+}

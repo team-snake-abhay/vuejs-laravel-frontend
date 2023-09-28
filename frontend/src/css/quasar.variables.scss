@@ -1,0 +1,176 @@
+// Quasar SCSS (& Sass) Variables
+// --------------------------------------------------
+// To customize the look and feel of this app, you can override
+// the Sass/SCSS variables found in Quasar's source Sass/SCSS files.
+
+// Check documentation for full list of Quasar variables
+
+// Your own variables (that are declared here) and Quasar's own
+// ones will be available out of the box in your .vue/.scss/.sass files
+
+// It's highly recommended to change the default colors
+// to match your app's branding.
+// Tip: Use the "Theme Builder" on Quasar's documentation website.
+
+$primary: #1cb686;
+$secondary: #b2f2bb;
+$accent: #b53b1b;
+
+$dark: #202528;
+$dark-page: #1a1717;
+
+$positive: #1ac441;
+$negative: #bd192c;
+$info: #4fcfe8;
+$warning: #ffd663;
+
+// shades
+$primary-dark: #087f5b;
+$primary-lite: #d6fff2;
+$secondary-lite: #c3fae8;
+$secondary-lite-2: #e6fcf5;
+$warning-lite: #ffe0c3;
+$warning-dark: #8f6b03;
+
+// neutral white
+$nwhite: #f1f1f1;
+$nwhite-2: #d9d9d9;
+$white: #f7f7f7;
+$neutral-blue: #bfa0fa;
+$ndark: #495057;
+$ndark-2: #6e6e6e;
+$ndark-3: #868e96;
+
+// transparent
+$tra-white: #ffffffc2;
+$semi-tra-white: #ffffff4d;
+
+$tra-dark: #202528bd;
+$semi-tra-dark: #20252848;
+
+// highlight
+$highlight: #ffec99;
+
+.bg-warning-lite {
+  background-color: $warning-lite;
+}
+.text-warning-lite {
+  color: $warning-lite;
+}
+
+.bg-warning-dark {
+  background-color: $warning-dark;
+}
+.text-warning-dark {
+  color: $warning-dark;
+}
+
+.bg-nwhite {
+  background-color: $nwhite;
+}
+.text-nwhite {
+  color: $nwhite;
+}
+.bg-nwhite-2 {
+  background-color: $nwhite-2;
+}
+.text-nwhite-2 {
+  color: $nwhite-2;
+}
+
+.bg-white {
+  background-color: $white;
+}
+.text-white {
+  color: $white;
+}
+
+.bg-neutral-blue {
+  background-color: $neutral-blue;
+}
+.text-neutral-blue {
+  color: $neutral-blue;
+}
+
+.bg-ndark {
+  background-color: $ndark;
+}
+.text-ndark {
+  color: $ndark;
+}
+
+.bg-ndark-2 {
+  background-color: $ndark-2;
+}
+.text-ndark-2 {
+  color: $ndark-2;
+}
+
+.bg-ndark-3 {
+  background-color: $ndark-3;
+}
+.text-ndark-3 {
+  color: $ndark-3;
+}
+
+.bg-tra-white {
+  background-color: $tra-white;
+}
+.text-tra-white {
+  color: $tra-white;
+}
+
+.bg-semi-tra-white {
+  background-color: $semi-tra-white;
+}
+.text-semi-tra-white {
+  color: $semi-tra-white;
+}
+
+.bg-tra-dark {
+  background-color: $tra-dark;
+}
+.text-tra-dark {
+  color: $tra-dark;
+}
+
+.bg-semi-tra-dark {
+  background-color: $semi-tra-dark;
+}
+.text-semi-tra-dark {
+  color: $semi-tra-dark;
+}
+
+.bg-secondary-lite {
+  background-color: $secondary-lite;
+}
+.text-secondary-lite {
+  color: $secondary-lite;
+}
+
+.bg-primary-lite {
+  background-color: $primary-lite;
+}
+.text-primary-lite {
+  color: $primary-lite;
+}
+.bg-primary-dark {
+  background-color: $primary-dark;
+}
+.text-primary-dark {
+  color: $primary-dark;
+}
+
+.bg-secondary-lite-2 {
+  background-color: $secondary-lite-2;
+}
+.text-secondary-lite-2 {
+  color: $secondary-lite-2;
+}
+
+.bg-highlight {
+  background-color: $highlight;
+}
+.text-highlight {
+  color: $highlight;
+}

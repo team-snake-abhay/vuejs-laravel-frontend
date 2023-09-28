@@ -1,0 +1,30 @@
+{
+  "files": [
+    {
+      "__key": "16693847262781669384417_blob.mp33451644",
+      "__status": "idle",
+      "__uploaded": 0,
+      "__progress": 0,
+      "__sizeLabel": "3.3MB",
+      "__progressLabel": "0.00%"
+    }
+  ],
+  "queuedFiles": [
+    {
+      "__key": "16693847262781669384417_blob.mp33451644",
+      "__status": "idle",
+      "__uploaded": 0,
+      "__progress": 0,
+      "__sizeLabel": "3.3MB",
+      "__progressLabel": "0.00%"
+    }
+  ],
+  "uploadedFiles": [],
+  "uploadedSize": 0,
+  "isUploading": false,
+  "isBusy": false,
+  "canAddFiles": false,
+  "canUpload": true,
+  "uploadSizeLabel": "3.3MB",
+  "uploadProgressLabel": "0.00%"
+}
